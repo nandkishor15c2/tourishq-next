@@ -1,0 +1,1 @@
+export { SideTitleCarousel } from './SideTitleCarousel';

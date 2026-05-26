@@ -1,0 +1,60 @@
+{
+  "sideTitleCarousel": {
+    "title": "Explore Our Packages",
+    "subtitle": "Handpicked travel experiences for every traveler",
+    "ctaText": "View All",
+    "ctaLink": "#packages",
+    "products": [
+      {
+        "id": 1,
+        "name": "Greek Islands Escape",
+        "destination": "Santorini, Greece",
+        "days": 5,
+        "nights": 4,
+        "tags": ["Beach", "Luxury"],
+        "price": 1299,
+        "image": { "url": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800&q=80", "alt": "Greek Islands" }
+      },
+      {
+        "id": 2,
+        "name": "Tropical Paradise",
+        "destination": "Maldives",
+        "days": 7,
+        "nights": 6,
+        "tags": ["Beach", "Honeymoon"],
+        "price": 2499,
+        "image": { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80", "alt": "Maldives" }
+      },
+      {
+        "id": 3,
+        "name": "Cultural Japan",
+        "destination": "Tokyo, Kyoto",
+        "days": 8,
+        "nights": 7,
+        "tags": ["Adventure", "Cultural"],
+        "price": 1899,
+        "image": { "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&q=80", "alt": "Japan" }
+      },
+      {
+        "id": 4,
+        "name": "Alpine Adventure",
+        "destination": "Swiss Alps",
+        "days": 6,
+        "nights": 5,
+        "tags": ["Adventure", "Nature"],
+        "price": 1599,
+        "image": { "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80", "alt": "Swiss Alps" }
+      },
+      {
+        "id": 5,
+        "name": "Bali Wellness",
+        "destination": "Bali, Indonesia",
+        "days": 5,
+        "nights": 4,
+        "tags": ["Spa", "Wellness"],
+        "price": 999,
+        "image": { "url": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&q=80", "alt": "Bali" }
+      }
+    ]
+  }
+}

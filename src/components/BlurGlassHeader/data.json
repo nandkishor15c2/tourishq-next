@@ -1,0 +1,15 @@
+{
+  "header": {
+    "logo": {
+      "src": "/logo.svg",
+      "alt": "Travel Site Logo",
+      "href": "/"
+    },
+    "nav": [
+      { "label": "Home", "href": "#hero" },
+      { "label": "Destinations", "href": "#destinations" },
+      { "label": "Packages", "href": "#packages" },
+      { "label": "Search", "href": "#search" }
+    ]
+  }
+}
